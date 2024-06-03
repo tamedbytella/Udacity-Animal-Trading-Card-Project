@@ -1,0 +1,51 @@
+
+.card {
+  margin: auto;
+  width: 300px;
+  border: 2px double orange;
+  padding: 1px;
+  }
+ 
+ 
+ .favorite {
+  font: "Lucida Calligraphy"; Cursive;
+  font-weight: bold;
+  color: #ff6700;
+  text-align: center;
+ 
+ }
+ .picture {
+  border: 2px solid orange;
+  margin: auto;
+  width: 300px;
+  padding: 1px;
+  text-align: center;
+  }
+ 
+ .info {
+  width:300px;
+  border-style: double;
+  border-color: orange;
+  padding:1px;
+  margin: auto;
+ 
+ }
+ .interesting {
+  font-style: italic;
+ }
+.bold {
+  font-weight: bold;
+}
+.bright {
+  color: orange;
+}
+ 
+ ul {
+  border: hidden;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+ }
+ .facts {
+   font-weight: bold}
+ 
